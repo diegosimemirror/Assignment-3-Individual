@@ -84,7 +84,7 @@ En [Streamlit Community Cloud](https://share.streamlit.io/), seleccione el repos
 
 Tras desplegar, compruebe que el filtro actualice las métricas y el mapa, que los nombres territoriales aparezcan al pasar el mouse y que la descarga CSV corresponda al intervalo seleccionado.
 
-**Enlace público:** pendiente de despliegue. Reemplazar esta línea por la URL real de la aplicación.
+**Enlace público:** [Abrir el dashboard de emergencias](https://assignment-3-individual-dfsygtjtgshrimcn7czyqi.streamlit.app/)
 
 ## Procesos
 
